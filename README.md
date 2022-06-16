@@ -12,4 +12,4 @@ Rewrited pluggable function wp_set_auth_cookie.
 
 Doesn't work in Safari unless you uncheck on Safari > Preferences > Privacy > Prevent cross-site tracking.
 
-Soruce: https://www.chromium.org/updates/same-site/incompatible-clients/).
+Source: https://www.chromium.org/updates/same-site/incompatible-clients/
